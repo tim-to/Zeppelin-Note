@@ -1,8 +1,8 @@
 {
   "paragraphs": [
     {
-      "text": "ghfgg\n",
-      "dateUpdated": "Feb 16, 2017 3:43:34 PM",
+      "text": "ghfgg\njlaskjdlkasjLKasd",
+      "dateUpdated": "Feb 16, 2017 3:56:12 PM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -23,7 +23,34 @@
       },
       "jobName": "paragraph_1487288522934_1331513860",
       "id": "20170216-154202_334623524",
-      "dateCreated": "Feb 16, 2017 3:42:02 PM",
+      "dateCreated": "Feb 16, 2017 3:42:02 AM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "saD",
+      "dateUpdated": "Feb 16, 2017 3:56:13 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1487289359670_-67424918",
+      "id": "20170216-155559_1853897184",
+      "dateCreated": "Feb 16, 2017 3:55:59 PM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
