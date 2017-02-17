@@ -1,8 +1,8 @@
 {
   "paragraphs": [
     {
-      "text": "analyst crap",
-      "dateUpdated": "Feb 16, 2017 3:54:55 PM",
+      "text": "analyst crap\n\nthis is another test\n\n2a",
+      "dateUpdated": "Feb 16, 2017 4:36:21 PM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -23,7 +23,7 @@
       },
       "jobName": "paragraph_1487289280548_-1942999185",
       "id": "20170216-155440_1609860180",
-      "dateCreated": "Feb 16, 2017 3:54:40 PM",
+      "dateCreated": "Feb 16, 2017 3:54:40 AM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
